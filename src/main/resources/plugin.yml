@@ -1,0 +1,6 @@
+name: EnchantExtensions
+main: dchc.enchext.EnchantExtensions
+version: 1.0.0
+author: Ey3cue
+api-version: 1.16
+description: Extends some enchantment possibilities
